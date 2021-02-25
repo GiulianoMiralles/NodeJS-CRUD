@@ -1,0 +1,25 @@
+{
+    "products": [
+        {
+            "id": 0,
+            "marca": "Ford",
+            "tipo": "Sedan",
+            "modelo": 2020,
+            "name": "Ka"
+        },
+        {
+            "id": 1,
+            "marca": "Ford",
+            "tipo": "Suv",
+            "modelo": 2020,
+            "name": "Kuga"
+        },
+        {
+            "id": 2,
+            "marca": "Ford",
+            "tipo": "Pick Up",
+            "modelo": 2021,
+            "name": "Ranger"
+        }
+    ]
+}
